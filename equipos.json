@@ -1,0 +1,35 @@
+{
+    "equipos":[
+        {
+            "nombre": "Millonarios",
+            "estrellas": "16",
+            "titulos": "22",
+            "directorTecnico": "Alberto Gamero"
+        },
+        {
+            "nombre": "Atlético Nacional",
+            "estrellas": "16",
+            "titulos": "30",
+            "directorTecnico": "Alejandro Restrepo"
+        },
+        {
+            "nombre": "Deportivo Cali",
+            "estrellas": "9",
+            "titulos": "15",
+            "directorTecnico": "Rafael Dudamel"
+        },
+        {
+            "nombre": "América de Cali",
+            "estrellas": "14",
+            "titulos": "21",
+            "directorTecnico": "Juan Carlos Osorio"
+        },
+        {
+            "nombre": "Independiente Santa Fe",
+            "estrellas": "9",
+            "titulos": "17",
+            "directorTecnico": "Harold Rivera"
+        }
+    ]
+}
+  
